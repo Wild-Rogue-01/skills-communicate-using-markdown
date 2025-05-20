@@ -9,3 +9,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Feed hamster
+- [ ] Eat food
+- [ ] Beans beans the magical fruit the more you eat the more you toot the more you toot the better you feel so beans beans for every meal
